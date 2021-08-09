@@ -1,5 +1,5 @@
 # postcovid19
-Contains the scripts used in the convalescent COVID-19 projects (doi: ) including the code for single cell RNA sequencing analysis, single cell ATAC sequencing analysis and methylation analysis.  
+Contains the code used in the convalescent COVID-19 projects (link: ),  including the code for single cell RNA sequencing analysis, single cell ATAC sequencing analysis and methylation analysis.  
 ### single cell RNA sequencing analysis 
 scRNA.R
 ### single cell ATAC sequencing analysis
